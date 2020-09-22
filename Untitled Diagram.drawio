@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2020-09-22T18:11:19.792Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" version="13.7.3" etag="AEzfGbFWn5b3Wm763HOo" type="github"><diagram id="MBkCisrbYhWVa1vbqAoz">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-22T19:51:14.302Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="Z2w6yK5AXR33oLFsQjvw" version="13.7.3" type="github">
+  <diagram id="MBkCisrbYhWVa1vbqAoz" name="Page-1">
+    <mxGraphModel dx="946" dy="1815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xRxSpwxC6T1GS_XxAvuu-1" value="&lt;h3&gt;&lt;span style=&quot;color: rgb(255 , 255 , 255) ; background-color: rgb(26 , 26 , 26)&quot;&gt;Système&lt;/span&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1A1A1A;align=right;sketch=0;shadow=0;glass=0;strokeWidth=1;perimeterSpacing=5;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="280" width="320" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="xRxSpwxC6T1GS_XxAvuu-3" value="&lt;font color=&quot;#ff6666&quot;&gt;commercial&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="60" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xRxSpwxC6T1GS_XxAvuu-5" value="&lt;font color=&quot;#ff6666&quot;&gt;service de livraison&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="140" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xRxSpwxC6T1GS_XxAvuu-8" value="&lt;font color=&quot;#ff6666&quot;&gt;administration&amp;nbsp;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="300" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xRxSpwxC6T1GS_XxAvuu-9" value="&lt;font color=&quot;#ff6666&quot;&gt;directeur&amp;nbsp;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="380" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xRxSpwxC6T1GS_XxAvuu-10" value="&lt;font color=&quot;#ff6666&quot;&gt;Client&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-20" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xRxSpwxC6T1GS_XxAvuu-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xRxSpwxC6T1GS_XxAvuu-10" target="xRxSpwxC6T1GS_XxAvuu-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xRxSpwxC6T1GS_XxAvuu-13" value="&lt;font color=&quot;#ff6666&quot;&gt;technicien&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="220" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xRxSpwxC6T1GS_XxAvuu-24" value="&lt;font color=&quot;#67ab9f&quot;&gt;Système bancaire&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="180" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
